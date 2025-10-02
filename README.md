@@ -1,2 +1,2 @@
-- Slightly interested in Virtual Realty, Computer Graphics & Software developing
-- Currently 
+- Slightly interested in Virtual Reality, Computer Graphics & almost any kind of Software development
+- Currently brushing up my programming skills
