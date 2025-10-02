@@ -1,2 +1,2 @@
-- Slightly interested in virtual realty & computer graphics
+- Slightly interested in Virtual Realty, Computer Graphics & Software developing
 - Currently 
